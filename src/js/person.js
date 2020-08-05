@@ -1,5 +1,5 @@
 export default class Person {
-    constructor(name, type, attack, defence) {
+    constructor(name, type, health, level, attack, defence) {
         this.name = name;
         this.type = type;
         this.health = health;
